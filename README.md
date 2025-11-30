@@ -51,8 +51,7 @@ Stay tuned — updating regularly! 🛠️
 ---
 
 ### 📫 Contact Me  
-- **LinkedIn:** (Add your link later)  
-- **GitHub:** https://github.com/Arpitraj93  
+- **LinkedIn:** (https://www.linkedin.com/in/arpit-raj-8127b1372/)    
 
 ---
 
