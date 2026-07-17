@@ -18,9 +18,9 @@
 
 Offensive Security learner, turning theory into working exploits.
 
-CRTA + AD-RTS certified. 40+ HackTheBox machines rooted, top 5% on TryHackMe. I learn by building — HackerRecon and PrivChk both exist because reading about an attack isn't the same as writing the tool that finds it. If a technique exists that I want to actually understand, I build the tool for it myself instead of just running someone else's.
+CRTA + AD-RTS certified. 40+ HackTheBox machines rooted, top 5% on TryHackMe. I built HackerRecon and PrivChk to actually understand the attacks I was reading about, instead of just running someone else's script.
 
-Currently hunting for a VAPT / Red Team / SOC Analyst role.
+Currently hunting for a VAPT / Red Team role.
 
 ---
 
