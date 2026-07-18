@@ -8,7 +8,7 @@
 
 ---
 
-### > whoami
+### 🎯 whoami
 
 Offensive Security learner, turning theory into working exploits.
 
@@ -20,7 +20,7 @@ Currently hunting for a VAPT / Red Team role.
 
 ---
 
-### > ls projects/
+### 🛠️ ls projects/
 
 **[HackerRecon](https://github.com/Arpitraj93/HackerRecon)** — A tool that crawls a website, figures out what it's built with, and actively tests it for common vulnerabilities like SQLi, XSS, and LFI — instead of me doing all of that by hand every time. I've hit and fixed several real bugs while building it, which is a big part of why I built it in the first place.
 
@@ -28,7 +28,7 @@ Currently hunting for a VAPT / Red Team role.
 
 ---
 
-### > cat notes/
+### 📓 cat notes/
 
 Alongside tooling, I keep structured, first-person notes on what I actually ran and what happened — my own working record as I go deeper into each technique:
 
@@ -38,17 +38,19 @@ Alongside tooling, I keep structured, first-person notes on what I actually ran 
 
 ---
 
-### > cat skills.txt
+### ⚔️ cat skills.txt
 
 **Offensive Security:** Active Directory attack paths · Windows & Linux Privilege Escalation · Web App Pentesting (OWASP Top 10 + business logic/SSRF/SSTI) · API Security (BOLA/IDOR, JWT attacks)
 
 **Tools:** BloodHound · Impacket · Mimikatz · CrackMapExec/NetExec · Responder · Rubeus · Certipy · evil-winrm · Burp Suite · Nmap · Metasploit · Hydra · John the Ripper · Hashcat · Wireshark · ffuf/gobuster
 
-**Building with:** Python · PowerShell · Bash
+**Building with:**
+
+![Skills](https://skillicons.dev/icons?i=python,bash,powershell,linux)
 
 ---
 
-### > github --stats
+### 📊 github --stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitraj93&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitraj93&layout=compact&theme=github_dark&hide_border=true)
@@ -57,6 +59,6 @@ Alongside tooling, I keep structured, first-person notes on what I actually ran 
 
 ---
 
-### > contact --info
+### 📫 contact --info
 
 📫 arpitprince9@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-raj-8127b1372/) · [TryHackMe](https://tryhackme.com/p/nob1ta0x)
