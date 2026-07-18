@@ -32,13 +32,13 @@ Currently hunting for a VAPT / Red Team role.
 [HackerRecon](https://github.com/Arpitraj93/HackerRecon) — A tool that crawls a website, figures out what it's built with, and actively tests it for common vulnerabilities like SQLi, XSS, and LFI — instead of me doing all of that by hand every time. I've hit and fixed several real bugs while building it, which is a big part of why I built it in the first place.
 
 
-[Escalate](https://github.com/Arpitraj93/reconvault) — A tool that checks a Linux machine for privilege escalation paths and tells you which ones are actually exploitable, not just a wall of raw output to sort through myself. It scores every finding against a local database instead of guessing, and I've already found and fixed a real bug in it after testing against a live vulnerable box.
+[Escalate](https://github.com/Arpitraj93/Escalate) — A tool that checks a Linux machine for privilege escalation paths and tells you which ones are actually exploitable, not just a wall of raw output to sort through myself. It scores every finding against a local database instead of guessing, and I've already found and fixed a real bug in it after testing against a live vulnerable box.
 
 
 <img src="https://img.shields.io/badge/%24_cat_notes%2F-000000?style=for-the-badge&logoColor=00FF00&labelColor=000000&color=000000" />
 
 
-Alongside tooling, I keep structured, first-person notes on what I actually ran and what happened — my own working record as I go deeper into each technique:
+Alongside tooling, I've documented structured, first-person notes on what I actually ran and what happened as I go deeper into each technique:
 
 
 * Active Directory Attack Paths — Kerberoasting, AS-REP Roasting, DCSync, Golden/Silver Ticket, Delegation abuse (unconstrained/constrained/RBCD), ACL abuse, ADCS ESC1-ESC10 — each with exploit/detect/defense breakdowns
