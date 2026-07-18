@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CRTA-Certified-red?style=flat-square" />
   <img src="https://img.shields.io/badge/AD--RTS-Certified-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/HackTheBox-40%2B%20machines-9FEF00?style=flat-square" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=flat-square" />
 </p>
 
 ---
@@ -18,7 +16,9 @@
 
 Offensive Security learner, turning theory into working exploits.
 
-CRTA + AD-RTS certified. 40+ HackTheBox machines rooted, top 5% on TryHackMe. I built HackerRecon and PrivChk to actually understand the attacks I was reading about, instead of just running someone else's script.
+CRTA + AD-RTS certified. I built HackerRecon and Escalate instead of just running someone else's script. I also simulate AD attacks in my own lab, with writeups covering exploit, detection, and defense for each technique — not just how to break in.
+
+Top 4% rank on TryHackMe, 72 rooms completed. I spend most of my practice time across PortSwigger Academy, HackTheBox, OffSec's free-tier labs, and VulnHub.
 
 Currently hunting for a VAPT / Red Team role.
 
@@ -27,10 +27,10 @@ Currently hunting for a VAPT / Red Team role.
 ### > ls projects/
 
 **[HackerRecon](https://github.com/Arpitraj93/HackerRecon)**
-Modular web attack surface analyzer. BFS crawling, WAF/CMS fingerprinting with CVE matching, JS secret scanning, active SQLi/XSS/LFI testing, nmap-style CLI flags. Every real bug found while building it (dedup key collisions, silent JSON save failures, false-positive XSS from SQL error text) was fixed and became something I can explain line by line.
+A tool that crawls a website, figures out what it's built with, and actively tests it for common vulnerabilities like SQLi, XSS, and LFI — instead of me doing all of that by hand every time. I've hit and fixed several real bugs while building it, which is a big part of why I built it in the first place.
 
-**[PrivChk](https://github.com/Arpitraj93/privchk)**
-Linux privilege escalation checker that judges what it finds instead of dumping raw output — scores every finding by severity/confidence against a local GTFOBins + CVE database. Found and fixed a real detection bug after testing against a live vulnerable box (`sudo -l -n` silently failing without a cached credential timestamp).
+**[Escalate](https://github.com/Arpitraj93/escalate)**
+A tool that checks a Linux machine for privilege escalation paths and tells you which ones are actually exploitable, not just a wall of raw output to sort through myself. It scores every finding against a local database instead of guessing, and I've already found and fixed a real bug in it after testing against a live vulnerable box.
 
 ---
 
@@ -48,7 +48,7 @@ Alongside tooling, I keep structured, first-person notes on what I actually ran 
 
 **Offensive Security:** Active Directory attack paths · Windows & Linux Privilege Escalation · Web App Pentesting (OWASP Top 10 + business logic/SSRF/SSTI) · API Security (BOLA/IDOR, JWT attacks)
 
-**Tools:** BloodHound · Impacket · Mimikatz · Burp Suite · Nmap · Metasploit · Hydra · John the Ripper
+**Tools:** BloodHound · Impacket · Mimikatz · CrackMapExec/NetExec · Responder · Rubeus · Certipy · evil-winrm · Burp Suite · Nmap · Metasploit · Hydra · John the Ripper · Hashcat · Wireshark · ffuf/gobuster
 
 **Building with:** Python · PowerShell · Bash
 
@@ -69,7 +69,7 @@ Alongside tooling, I keep structured, first-person notes on what I actually ran 
 
 ### > contact --info
 
-📫 princerajlava@gmail.com · arpitprince9@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/arpit-raj-8127b1372/)
+📫 arpitprince9@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/arpit-raj-8127b1372/) · [TryHackMe](https://tryhackme.com/p/nob1ta0x)
 
 <p align="center"><i>"Enumeration is 90% of the job. This profile is the other 10%."</i></p>
