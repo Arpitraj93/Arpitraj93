@@ -1,10 +1,10 @@
-<div align="center">
-
 # Arpit Raj
-
 ### Offensive Security Engineer — VAPT & Red Team
 
-</div>
+![typing-svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=whoami+%3D+red+teamer%3B+kerberoasting+the+domain...%3B+root+access+obtained%3B+still+building.)
+
+[![CRTA Certified](https://img.shields.io/badge/CRTA-Certified-red?style=flat-square)](https://github.com/Arpitraj93)
+[![AD--RTS Certified](https://img.shields.io/badge/AD--RTS-Certified-red?style=flat-square)](https://github.com/Arpitraj93)
 
 ---
 
@@ -45,3 +45,18 @@ Alongside tooling, I keep structured, first-person notes on what I actually ran 
 **Tools:** BloodHound · Impacket · Mimikatz · CrackMapExec/NetExec · Responder · Rubeus · Certipy · evil-winrm · Burp Suite · Nmap · Metasploit · Hydra · John the Ripper · Hashcat · Wireshark · ffuf/gobuster
 
 **Building with:** Python · PowerShell · Bash
+
+---
+
+### > github --stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitraj93&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitraj93&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arpitraj93&theme=github-dark-blue&hide_border=true)
+
+---
+
+### > contact --info
+
+📫 arpitprince9@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-raj-8127b1372/) · [TryHackMe](https://tryhackme.com/p/nob1ta0x)
