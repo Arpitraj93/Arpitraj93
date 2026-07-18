@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/AD--RTS-Certified-red?style=flat-square" />
 </p>
 
-> whoami
+```bash
+$ whoami
+```
 
 Offensive Security learner, turning theory into working exploits.
 
@@ -20,13 +22,17 @@ Top 4% rank on TryHackMe, 100+ rooms completed. I spend most of my practice time
 
 Currently hunting for a VAPT / Red Team role.
 
-> ls projects/
+```bash
+$ ls projects/
+```
 
-[HackerRecon](https://github.com/Arpitraj93/HackerRecon) A tool that crawls a website, figures out what it's built with, and actively tests it for common vulnerabilities like SQLi, XSS, and LFI — instead of me doing all of that by hand every time. I've hit and fixed several real bugs while building it, which is a big part of why I built it in the first place.
+[HackerRecon](https://github.com/Arpitraj93/HackerRecon) — A tool that crawls a website, figures out what it's built with, and actively tests it for common vulnerabilities like SQLi, XSS, and LFI — instead of me doing all of that by hand every time. I've hit and fixed several real bugs while building it, which is a big part of why I built it in the first place.
 
-[Escalate](https://github.com/Arpitraj93/reconvault) A tool that checks a Linux machine for privilege escalation paths and tells you which ones are actually exploitable, not just a wall of raw output to sort through myself. It scores every finding against a local database instead of guessing, and I've already found and fixed a real bug in it after testing against a live vulnerable box.
+[Escalate](https://github.com/Arpitraj93/reconvault) — A tool that checks a Linux machine for privilege escalation paths and tells you which ones are actually exploitable, not just a wall of raw output to sort through myself. It scores every finding against a local database instead of guessing, and I've already found and fixed a real bug in it after testing against a live vulnerable box.
 
-> cat notes/
+```bash
+$ cat notes/
+```
 
 Alongside tooling, I keep structured, first-person notes on what I actually ran and what happened — my own working record as I go deeper into each technique:
 
@@ -34,7 +40,9 @@ Alongside tooling, I keep structured, first-person notes on what I actually ran 
 * Windows Privilege Escalation — token impersonation (JuicyPotato, PrintSpoofer, RoguePotato, GodPotato, SweetPotato), service/registry/scheduled-task abuse
 * Linux Privilege Escalation — sudo/SUID/SGID/capabilities/cron/PATH hijacking/library hijacking, all cross-referenced against GTFOBins
 
-> cat skills.txt
+```bash
+$ cat skills.txt
+```
 
 Offensive Security: Active Directory attack paths · Windows & Linux Privilege Escalation · Web App Pentesting (OWASP Top 10 + business logic/SSRF/SSTI) · API Security (BOLA/IDOR, JWT attacks)
 
@@ -42,7 +50,9 @@ Tools: BloodHound · Impacket · Mimikatz · CrackMapExec/NetExec · Responder �
 
 Building with: Python · PowerShell · Bash
 
-> github --stats
+```bash
+$ github --stats
+```
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpitraj93&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -53,7 +63,9 @@ Building with: Python · PowerShell · Bash
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitraj93&theme=github-dark-blue&hide_border=true" />
 </p>
 
-> contact --info
+```bash
+$ contact --info
+```
 
 📫 arpitprince9@gmail.com 🔗 [LinkedIn](https://www.linkedin.com/in/arpit-raj-8127b1372/) · [TryHackMe](https://tryhackme.com/p/nob1ta0x)
 
